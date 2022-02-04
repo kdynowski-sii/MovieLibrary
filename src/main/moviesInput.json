@@ -1,0 +1,206 @@
+{"movieList":[
+    {
+      "title":"Pulp Fiction",
+      "releaseYear": 1994,
+      "director":
+      {
+        "firstName": "Quentin",
+        "lastName":"Tarantino"
+      },
+      "genre": "gangster-movie",
+      "actors":
+      [
+        {
+          "firstName": "John",
+          "lastName": "Travolta"
+        },
+        {
+          "firstName": "Samuel",
+          "lastName": "Jackson"
+        },
+        {
+          "firstName": "Uma",
+          "lastName": "Thurman"
+        },
+        {
+          "firstName": "Bruce",
+          "lastName": "Willis"
+        }
+      ]
+    },
+    {
+      "title":"Once upon a time in Hollywood",
+      "releaseYear": 2019,
+      "director":
+      {
+        "firstName": "Quentin",
+        "lastName":"Tarantino"
+      },
+      "genre": "drama",
+      "actors":
+      [
+        {
+          "firstName": "Leonardo",
+          "lastName": "DiCaprio"
+        },
+        {
+          "firstName": "Brad",
+          "lastName": "Pitt"
+        },
+        {
+          "firstName": "Margot",
+          "lastName": "Robbie"
+        },
+        {
+          "firstName": "Al",
+          "lastName": "Pacino"
+        }
+      ]
+    },
+  {
+    "title":"Kill Bill",
+    "releaseYear": 2003,
+    "director":
+    {
+      "firstName": "Quentin",
+      "lastName":"Tarantino"
+    },
+    "genre": "action",
+    "actors":
+    [
+      {
+        "firstName": "Uma",
+        "lastName": "Thurman"
+      },
+      {
+        "firstName": "David",
+        "lastName": "Carradine"
+      },
+      {
+        "firstName": "Lucy",
+        "lastName": "Liu"
+      },
+      {
+        "firstName": "Daryl",
+        "lastName": "Hannah"
+      }
+    ]
+  },
+  {
+    "title":"Inglorious Bastards",
+    "releaseYear": 2009,
+    "director":
+    {
+      "firstName": "Quentin",
+      "lastName":"Tarantino"
+    },
+    "genre": "war",
+    "actors":
+    [
+      {
+        "firstName": "Brad",
+        "lastName": "Pitt"
+      },
+      {
+        "firstName": "Melanie",
+        "lastName": "Laurent"
+      },
+      {
+        "firstName": "Christoph",
+        "lastName": "Waltz"
+      },
+      {
+        "firstName": "Eli",
+        "lastName": "Roth"
+      }
+    ]
+  },
+  {
+    "title":"Django",
+    "releaseYear": 2012,
+    "director":
+    {
+      "firstName": "Quentin",
+      "lastName":"Tarantino"
+    },
+    "genre": "Western",
+    "actors":
+    [
+      {
+        "firstName": "Jamie",
+        "lastName": "Foxx"
+      },
+      {
+        "firstName": "Christoph",
+        "lastName": "Waltz"
+      },
+      {
+        "firstName": "Leonardo",
+        "lastName": "DiCaprio"
+      },
+      {
+        "firstName": "Kerry",
+        "lastName": "Washington"
+      }
+    ]
+  },
+  {
+    "title":"Reservoir dogs",
+    "releaseYear": 1992,
+    "director":
+    {
+      "firstName": "Quentin",
+      "lastName":"Tarantino"
+    },
+    "genre": "gangster",
+    "actors":
+    [
+      {
+        "firstName": "Harvey",
+        "lastName": "Keitel"
+      },
+      {
+        "firstName": "Michael",
+        "lastName": "Madsen"
+      },
+      {
+        "firstName": "Tim",
+        "lastName": "Roth"
+      },
+      {
+        "firstName": "Steve",
+        "lastName": "Buscemi"
+      }
+    ]
+  },
+  {
+    "title":"The Hateful Eight",
+    "releaseYear": 2015,
+    "director":
+    {
+      "firstName": "Quentin",
+      "lastName":"Tarantino"
+    },
+    "genre": "western",
+    "actors":
+    [
+      {
+        "firstName": "Samuel",
+        "lastName": "Jackson"
+      },
+      {
+        "firstName": "Kurt",
+        "lastName": "Russell"
+      },
+      {
+        "firstName": "Jennifer",
+        "lastName": "Leigh"
+      },
+      {
+        "firstName": "Walton",
+        "lastName": "Goggins"
+      }
+    ]
+  }
+]
+}
